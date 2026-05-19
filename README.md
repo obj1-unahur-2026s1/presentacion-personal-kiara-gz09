@@ -8,4 +8,4 @@ Mi nombre es Kiara Gimenez. Tengo 20 años. Estoy estudiando Tecnicatura en Prog
 
 ### Otra Información
 Este es mi primer contacto con github.
-Entre mis hobbies se encuentran leer, nadar, jugar videojuegos(especialmente metroidvania).
+Entre mis hobbies se encuentran leer, nadar, jugar videojuegos(especialmente metroidvania). .
